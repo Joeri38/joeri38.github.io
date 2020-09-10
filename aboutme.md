@@ -13,4 +13,4 @@ What else do you need?
 
 ### My history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I started my Master in Physics at the VUB because I wanted to understand how the world around us works. It still amazes me how most everyday phenomena can be explained by a set of simple laws and equations. 
