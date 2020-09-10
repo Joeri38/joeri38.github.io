@@ -24,7 +24,6 @@ navbar-links:
   Projects:
     - Semantic segmentation: "https://joeri38.github.io/brain-segmentation-website/"
     - Inverse design: "https://github.com/Joeri38/inverse-design"
-  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
