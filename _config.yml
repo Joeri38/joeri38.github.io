@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Inverse design
+title: Joeri Lenaerts
 
 # Short description of your site
-description: Instructing a computer on understanding photonics
+description: Home
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,9 +21,9 @@ description: Instructing a computer on understanding photonics
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+  Projects:
+    - Semantic segmentation: "https://joeri38.github.io/brain-segmentation-website/"
+    - Inverse design: "https://github.com/Joeri38/inverse-design"
   Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
