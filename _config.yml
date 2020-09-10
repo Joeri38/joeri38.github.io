@@ -51,7 +51,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/bgimage.png"
+navbar-img: "/img/kandinsky.jpg"
 footer-img: "/img/bgimage.png"
 page-img: "/img/bgimage.png"
 
@@ -69,21 +69,12 @@ author:
 social-network-links:
   rss: true
   email: "joeri.lenaerts@vub.be"
-  facebook: deanattali
   github: joeri38
-  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
+  twitter: @lenaertsjoeri
+  linkedin: linkedin.com/in/joeri-lenaerts-306381199
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -93,7 +84,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "InverseDesign.com"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "InverseDesign.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
